@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/svelte-todo",
+      "destination": "https://csb-igero-a0k9qwdly.now.sh/me"
+    }
+  ]
+}
