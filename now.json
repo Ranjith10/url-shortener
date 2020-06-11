@@ -8,6 +8,10 @@
     {
       "source": "/",
       "destination": "https://github.com/Ranjith10"
-    }
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/Ranjith10"
+    },
   ]
 }
