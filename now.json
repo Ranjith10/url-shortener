@@ -6,10 +6,6 @@
       "destination": "https://csb-igero-a0k9qwdly.now.sh/me"
     },
     {
-      "source": "/",
-      "destination": "https://github.com/Ranjith10"
-    },
-    {
       "source": "/github",
       "destination": "https://github.com/Ranjith10"
     }
